@@ -4,7 +4,7 @@
       <p>{{ headerText }}</p>
     </div>
     <div class="main">
-      <h1>Rares</h1>
+      <h1>Rares Andrei </h1>
     </div>
     <div class="buttons">
       <button class="button-64" onclick="location.href='https://www.linkedin.com/in/rares-andrei-herghelegiu-44ab5528a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'" role="button"><span class="text">LinkedIn</span></button>
